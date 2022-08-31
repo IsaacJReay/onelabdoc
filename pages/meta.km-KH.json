@@ -1,0 +1,23 @@
+{
+  "index": {
+    "title": "Welcome",
+    "type": "page",
+    "hidden": false
+  },
+  "classroom": {
+    "title": "Classroom",
+    "type": "page"
+  },
+  "contentserver": {
+    "title": "ContentServer",
+    "type": "page"
+  },
+  "enterprise": {
+    "title": "Enterprise",
+    "type": "page"
+  },
+  "Lab": {
+    "title": "Lab",
+    "type": "page"
+  }
+}
